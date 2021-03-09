@@ -1,0 +1,6 @@
+build/darknet/x64/data/img/MOV_frame_4.jpg
+build/darknet/x64/data/img/MOV_frame_7.jpg
+build/darknet/x64/data/img/MOV_frame_2.jpg
+build/darknet/x64/data/img/MOV_frame_5.jpg
+build/darknet/x64/data/img/MOV_frame_1.jpg
+build/darknet/x64/data/img/MOV_frame_6.jpg

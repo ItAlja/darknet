@@ -1,0 +1,9 @@
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.066667.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.333333.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.4.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.533333.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.466667.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.6.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.2.jpg
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.133333.jpg

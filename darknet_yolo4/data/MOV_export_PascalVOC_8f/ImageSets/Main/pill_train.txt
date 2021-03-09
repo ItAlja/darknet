@@ -1,0 +1,6 @@
+MOV_frame_1 1
+MOV_frame_2 1
+MOV_frame_4 1
+MOV_frame_5 1
+MOV_frame_7 1
+MOV_frame_8 1

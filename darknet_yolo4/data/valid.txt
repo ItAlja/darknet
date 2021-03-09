@@ -1,0 +1,1 @@
+build/darknet/x64/data/img/MOV_SM_P960F_20200731125757.mp4#t=0.266667.jpg

@@ -1,0 +1,7 @@
+data/obj/MOV_frame_1.jpg
+data/obj/MOV_frame_2.jpg
+data/obj/MOV_frame_3.jpg
+data/obj/MOV_frame_5.jpg
+data/obj/MOV_frame_6.jpg
+data/obj/MOV_frame_7.jpg
+data/obj/MOV_frame_8.jpg
